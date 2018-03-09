@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="uic.edu.ph" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Estimo PG Demo</name>
+    <description>
+        A basic Framework7 template for PhoneGap.
+    </description>
+    <author email="estimog@yahoo.com">
+    </author>
+    <content src="index.html" />
+    <preference name="DisallowOverscroll" value="true" />
+
+    <!-- Uncomment to use the latest, fastest iOS WebView (see this post http://devgirl.org/2016/01/11/a-faster-hybrid-app-for-the-new-year/) -->
+    <!--<plugin name="cordova-plugin-wkwebview-engine" spec="~1.0.1" />-->
+
+
+
+</widget>
